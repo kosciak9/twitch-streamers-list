@@ -6,15 +6,15 @@
 
 ### Desktop:
 
-![./screenshots/1920x900.png](1920x900 resolution)
+![screenshots/1920x900.png](1920x900 resolution)
 
 ### Laptop:
 
-![./screenshots/1280x600.png](1280x600 resolution)
+![screenshots/1280x600.png](1280x600 resolution)
 
 ### Mobile:
 
-![./screenshots/320x480.png](320x480 resolution)
+![screenshots/320x480.png](mobile_screenshot)
 
 ## Build Setup
 
